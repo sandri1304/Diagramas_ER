@@ -1,0 +1,1 @@
+El precio sería un atributo de medicamento en vez de relacionarlo con la relación vende.
