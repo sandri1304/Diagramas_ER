@@ -1,0 +1,1 @@
+Habria que crear una nueva entidad que fuese receta con los atributos cantidad y fecha y relacionarlo con la relación recetado por.
